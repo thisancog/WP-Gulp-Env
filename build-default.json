@@ -1,0 +1,19 @@
+{
+	"name": 			"Name of the Theme",
+	"themeURI": 		"Theme Slug",
+	"author": 			"",
+	"authorURI": 		"",
+	"description": 		"",
+	"version": 			"1.0.0",
+	"license": 			"",
+	"licenseURI": 		"",
+	"textDomain": 		"namespace for translatable content",
+
+	
+
+	"localStagingDir": 	"/path/to/local/staging/directory",
+	"localStagingURI": 	"http://localhost/example/",
+	"productionHost":	"example.com",
+	"productionUser":	"user",
+	"productionPath":	"/path/to/directory/on/production/server"
+}
